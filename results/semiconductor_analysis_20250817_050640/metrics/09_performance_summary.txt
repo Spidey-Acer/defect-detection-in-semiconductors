@@ -1,0 +1,13 @@
+SEMICONDUCTOR DEFECT DETECTION - PERFORMANCE SUMMARY
+Generated: 2025-08-17 05:06:51
+
+OVERALL METRICS:
+- Test Accuracy: 0.6933
+- Total Test Samples: 150
+
+PER-CLASS PERFORMANCE:
+
+TRAINING SUMMARY:
+- Epochs Completed: 5
+- Best Validation Accuracy: 0.6400
+- Final Validation Accuracy: 0.6333
